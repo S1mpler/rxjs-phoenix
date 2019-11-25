@@ -1,0 +1,28 @@
+{
+  "name": "rxjs-phoenix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S1mpler/rxjs-phoenix.git"
+  },
+  "author": "S1mpler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/S1mpler/rxjs-phoenix/issues"
+  },
+  "homepage": "https://github.com/S1mpler/rxjs-phoenix#readme",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "@types/phoenix": "^1.4.3",
+    "phoenix": "^1.4.11",
+    "rxjs": "^6.5.3"
+  }
+}
